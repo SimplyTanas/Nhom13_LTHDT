@@ -1,0 +1,6 @@
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\DTO_QuanLySpa\bin\Debug\DTO_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\DTO_QuanLySpa\bin\Debug\DTO_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.csproj.AssemblyReference.cache
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.csproj.CoreCompileInputs.cache
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\DTO_QuanLySpa\obj\Debug\DTO_QuanLySpa.pdb

@@ -1,0 +1,15 @@
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\GUI_QuanLySpa.exe.config
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\GUI_QuanLySpa.exe
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\GUI_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\BLL_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\DTO_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\DAL_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\BLL_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\DTO_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\bin\Debug\DAL_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\obj\Debug\GUI_QuanLySpa.csproj.AssemblyReference.cache
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\obj\Debug\GUI_QuanLySpa.csproj.CoreCompileInputs.cache
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\obj\Debug\GUI_Quan.7F37E563.Up2Date
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\obj\Debug\GUI_QuanLySpa.exe
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\obj\Debug\GUI_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\GUI_QuanLySpa\obj\Debug\GUI_QuanLySpa.exe.config

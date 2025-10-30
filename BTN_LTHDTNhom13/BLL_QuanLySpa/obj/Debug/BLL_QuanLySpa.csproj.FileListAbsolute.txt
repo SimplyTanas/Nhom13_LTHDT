@@ -1,0 +1,11 @@
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\bin\Debug\BLL_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\bin\Debug\BLL_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\bin\Debug\DAL_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\bin\Debug\DTO_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\bin\Debug\DAL_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\bin\Debug\DTO_QuanLySpa.pdb
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\obj\Debug\BLL_QuanLySpa.csproj.AssemblyReference.cache
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\obj\Debug\BLL_QuanLySpa.csproj.CoreCompileInputs.cache
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\obj\Debug\BLL_Quan.13E7E698.Up2Date
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\obj\Debug\BLL_QuanLySpa.dll
+C:\Users\baota\source\repos\BTN_LTHDTNhom13\BLL_QuanLySpa\obj\Debug\BLL_QuanLySpa.pdb
